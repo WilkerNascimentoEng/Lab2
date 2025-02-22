@@ -1,6 +1,6 @@
-1. Ler Texto no Vision Studio
+# 1. Ler Texto no Vision Studio
 
-Introdução
+# Introdução
 
 Neste exercício, você usará o serviço Azure AI para explorar os recursos de reconhecimento óptico de caracteres do Azure AI Vision. Você usará o Vision Studio para experimentar extrair texto de imagens, sem precisar escrever nenhum código.
 
@@ -45,7 +45,7 @@ Para evitar custos desnecessários:
 
 ---
 
- 2. Analisar Imagens no Vision Studio
+ # 2. Analisar Imagens no Vision Studio
 
  Introdução
 
